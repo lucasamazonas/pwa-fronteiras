@@ -1,4 +1,6 @@
-# fronteiras-front
+# fronteiras front
+
+Projeto feito para mapeamento de comunidades ribeirinhas do rio Soliões
 
 ## Project setup
 ```
